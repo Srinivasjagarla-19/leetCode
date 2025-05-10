@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
