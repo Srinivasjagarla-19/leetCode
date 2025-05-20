@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1013-fibonacci-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0898-transpose-matrix) |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0073-set-matrix-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
