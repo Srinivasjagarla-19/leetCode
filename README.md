@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0367-valid-perfect-square) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0326-power-of-three) |
