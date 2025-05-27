@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0633-sum-of-square-numbers) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srinivasjagarla-19/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
