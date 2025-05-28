@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0861-flipping-an-image) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0633-sum-of-square-numbers) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0367-valid-perfect-square) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0861-flipping-an-image) |
 ## Matrix
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -133,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0420-strong-password-checker](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0420-strong-password-checker) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
