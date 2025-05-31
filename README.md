@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0861-flipping-an-image) |
 ## Hash Table
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
