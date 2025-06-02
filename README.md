@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0326-power-of-three) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0202-happy-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0861-flipping-an-image) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
