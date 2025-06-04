@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0069-sqrtx) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1013-fibonacci-number) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
