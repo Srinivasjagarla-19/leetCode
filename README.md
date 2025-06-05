@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0070-climbing-stairs) |
+| [0678-valid-parenthesis-string](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
@@ -149,10 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0412-fizz-buzz) |
 | [0420-strong-password-checker](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0420-strong-password-checker) |
+| [0678-valid-parenthesis-string](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0420-strong-password-checker](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0420-strong-password-checker) |
+| [0678-valid-parenthesis-string](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0678-valid-parenthesis-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
