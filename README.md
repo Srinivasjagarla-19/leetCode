@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0412-fizz-buzz) |
 | [0420-strong-password-checker](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0420-strong-password-checker) |
 ## Greedy
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
