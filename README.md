@@ -150,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0412-fizz-buzz) |
 | [0420-strong-password-checker](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0420-strong-password-checker) |
+| [0649-dota2-senate](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0420-strong-password-checker](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0420-strong-password-checker) |
+| [0649-dota2-senate](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0678-valid-parenthesis-string) |
 ## Heap (Priority Queue)
 |  |
@@ -192,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
