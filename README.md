@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0777-toeplitz-matrix) |
 | [0822-unique-morse-code-words](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0420-strong-password-checker) |
 | [0649-dota2-senate](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0678-valid-parenthesis-string) |
+| [0890-lemonade-change](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0890-lemonade-change) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
