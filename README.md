@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0169-majority-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srinivasjagarla-19/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
 | [0822-unique-morse-code-words](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0822-unique-morse-code-words) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -212,4 +216,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
