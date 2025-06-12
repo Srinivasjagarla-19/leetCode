@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0777-toeplitz-matrix) |
+| [0792-binary-search](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0890-lemonade-change) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srinivasjagarla-19/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
