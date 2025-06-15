@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0074-search-a-2d-matrix) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
