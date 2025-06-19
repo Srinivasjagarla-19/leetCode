@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Srinivasjagarla-19/leetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srinivasjagarla-19/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0890-lemonade-change) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Srinivasjagarla-19/leetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Srinivasjagarla-19/leetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Linked List
 |  |
 | ------- |
