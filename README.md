@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0169-majority-element) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srinivasjagarla-19/leetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Srinivasjagarla-19/leetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Two Pointers
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
 | [0822-unique-morse-code-words](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0822-unique-morse-code-words) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Srinivasjagarla-19/leetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Number Theory
 |  |
