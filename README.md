@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0822-unique-morse-code-words](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0822-unique-morse-code-words) |
+| [1250-longest-common-subsequence](https://github.com/Srinivasjagarla-19/leetCode/tree/master/1250-longest-common-subsequence) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Srinivasjagarla-19/leetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
 |  |
