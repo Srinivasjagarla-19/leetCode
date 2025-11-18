@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0228-summary-ranges) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0268-missing-number) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0202-happy-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Srinivasjagarla-19/leetCode/tree/master/0633-sum-of-square-numbers) |
